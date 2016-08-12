@@ -13,7 +13,7 @@ body
     letter-spacing: .1em;
     --basecolor: #F5F7E0 ;
     --maincolor : #8F7B28 ;
-    --accentcolor : #D9181E ;
+    --accentcolor : #BA3D45 ;
     color: #3F3F3A;
     background-color: var(--basecolor);
 }
